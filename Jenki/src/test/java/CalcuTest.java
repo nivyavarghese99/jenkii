@@ -9,6 +9,8 @@ import org.junit.Test;
 public class CalcuTest {
 	int x,y;
 	Calcu obj;
+	
+	
 
 	@Before
 	public void setUp() throws Exception {
